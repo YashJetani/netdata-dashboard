@@ -10,5 +10,5 @@
    - sign in using email or github.
    - run command :
      - docker exec -it netdata bash
-     - sudo cat /var/lib/netdata/netdata_random_session_id
+     - cat /var/lib/netdata/netdata_random_session_id
    - copy key and paste it on netdata.
